@@ -1,0 +1,6 @@
+@AGSRTestTask_HostAddress = http://localhost:5028
+
+GET {{AGSRTestTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
